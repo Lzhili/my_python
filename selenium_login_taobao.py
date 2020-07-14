@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 21 15:05:44 2020
 
-@author: 赖志立
+@author: Lzhili
 """
 
 from selenium import webdriver
